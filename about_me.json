@@ -1,7 +1,7 @@
 {
         "user_name": "Alexandra",
         "user_age": 27,
-        "salary": 1 000 000,
+        "salary": 1000000,
         "Family":{
                 "person_1":{
                         "name": "Lubov",
