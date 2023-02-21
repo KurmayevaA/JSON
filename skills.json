@@ -1,0 +1,36 @@
+{
+  "skill1": "Creating JSON objects",
+  "skill2": "Parsing JSON data",
+  "skill3": "Accessing JSON data",
+  "skill4": "Modifying JSON data",
+  "skill5": "Validating JSON data",
+  "skill6": "Combining multiple JSON objects",
+  "skill7": "Converting JSON to other data formats",
+  "skill8": "Serializing and deserializing JSON data",
+  "skill9": "Working with JSON APIs",
+  "skill10": "Handling JSON data errors",
+  "skill11": "Using JSON with JavaScript",
+  "skill12": "Reading and writing JSON files",
+  "skill13": "Using JSON with databases",
+  "skill14": "Creating JSON web services",
+  "skill15": "Encoding and decoding JSON data",
+  "skill16": "Manipulating JSON with Python",
+  "skill17": "Using JSON with RESTful APIs",
+  "skill18": "Converting JSON to XML and vice versa",
+  "skill19": "Debugging JSON data",
+  "skill20": "Optimizing JSON performance",
+  "skill21": "Formatting JSON data",
+  "skill22": "Filtering JSON data",
+  "skill23": "Sorting JSON data",
+  "skill24": "Traversing JSON data",
+  "skill25": "Extracting data from nested JSON",
+  "skill26": "Transforming JSON data",
+  "skill27": "Merging JSON data",
+  "skill28": "Normalizing JSON data",
+  "skill29": "Minifying JSON data",
+  "skill30": "Pretty-printing JSON data"
+}
+
+
+
+
