@@ -1,0 +1,35 @@
+{
+        "user_name": "Alexandra",
+        "user_age": 27,
+        "salary": 1 000 000,
+        "Family":{
+                "person_1":{
+                        "name": "Lubov",
+                        "age": 56
+                },
+                "person_2":{
+                        "name": "Galina",
+                        "age": 39
+                },
+                "person_3":{
+                        "name": "Cat_begemot",
+                        "age": 6
+
+        }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
