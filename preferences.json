@@ -1,0 +1,33 @@
+{
+	"user_name":"Alexandra",
+	"what_i_love":"read_more",
+	"what_i_like_eat":{
+			"with_meat":"pilaf",
+			"without_meat":"quesadilla",
+			"favorite_fruit_1":"mango",
+			"favorite_fruit_2":"pineapple",
+			"favorite_fruit_3":"kiwi"
+	},
+	"favorite_sireals":{
+			"sireal_1":"desperate housewives",
+			"sireals_2":"office"
+	},
+	"favorite_movies":{
+			"favorite_movie":"titanic",
+			"favorite_movies":"matrix"
+	},
+	"favorite_time_of_the_year":{
+			"favourite_season_1":"summer",
+			"favourite_season_2":"winter"
+	},
+	"i_dream_of_going_to":{
+			"country_1":"Nepal",
+			"country_2":"Australia",
+			"country_3":"Spain"
+	}
+
+
+
+
+
+}
